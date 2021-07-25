@@ -1,6 +1,10 @@
 # Knowledge For Good
 Working towards a future where knowledge is accessible to everyone, for all time, everywhere.
 
+We want to help people learn. We do research, we bring people together, we make tools, we teach, we discuss, and we have fun.
+
+So far (July 2021), we have taught two workshops, and released one 30 day learning challenge.
+
 ## Our GitHub Repo
 Here is where we focus, organize, and communicate, in as transparant a way as possible*. We think GitHub is great as our project hub because:
 - We can create "webs of knowledge" simply with bi-directional linking.
@@ -24,5 +28,11 @@ Here is where we focus, organize, and communicate, in as transparant a way as po
 - Truth & honesty
 - Love & compassion
 - Integrity & accessibility (& continually striving towards them)
+
+## Our Current Projects
+- 3D Knowlege Printer: Understanding the fundamentals of what enables all learners to learn
+- Incorporating learning maps with Spaced Repetition
+- Growing learning communities
+- Creating an intentional, compassionate nonprofit cooperative
 
 \*Please let us know if you have suggestions on how to improve!

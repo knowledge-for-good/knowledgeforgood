@@ -20,6 +20,7 @@ Here is where we focus, organize, and communicate, in as transparant a way as po
 ## Our Values
 - Growth & health
 - Mindfulness & accountability
+- Do no harm
 - Truth & honesty
 - Love & compassion
 - Integrity & accessibility (& continually striving towards them)

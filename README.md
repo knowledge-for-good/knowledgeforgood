@@ -2,7 +2,7 @@
 Working towards a future where knowledge is accessible to everyone, for all time, everywhere.
 
 ## Our GitHub Repo
-Here is where we focus, organize, and communicate, in as transparant a way possible*. Because GitHub allows for bidirectional linking, we can create "webs of knowledge" simply. Because GitHub keeps a history of all edits to repositories, no information is lost. Because we use this repository with issues and dicussions, we maintain a coherent "single source of truth".
+Here is where we focus, organize, and communicate, in as transparant a way as possible*. Because GitHub allows for bidirectional linking, we can create "webs of knowledge" simply. Because GitHub keeps a history of all edits to repositories, no information is lost. Because we use this repository with issues and dicussions, we maintain a coherent "single source of truth".
 
 ## Our Links
 - Our YouTube channel: We post workshop and meeting recordings here.

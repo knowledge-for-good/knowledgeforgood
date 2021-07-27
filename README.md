@@ -12,7 +12,7 @@ Here is where we focus, organize, and communicate, in as transparant a way as po
 - We maintain a coherent "single source of truth" with issues and dicussions located here.
 
 ## Our Links
-- [Our YouTube channel](#): We post workshop and meeting recordings here.
+- [Our YouTube channel](https://www.youtube.com/channel/UCkynv82S4xOnQsdQRlOELoQ): We post workshop and meeting recordings here.
 - [Our brainstorming sessions](#): We often make mindmaps on Coggle.it
 - Our design documents: We like to jam visually on [Figma](#) and [Miro](#)
 

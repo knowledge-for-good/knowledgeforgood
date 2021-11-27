@@ -2,9 +2,9 @@
 
 Working towards a future where knowledge is accessible to everyone, for all time, everywhere.
 
-  _**May today's thoughts, words, and movements be offered with love, kindness, and compassion.**_
+_**May today's thoughts, words, and movements be offered with love, kindness, and compassion.**_
 
- _**May we connect to ourselves and to one another, all for the better.**_
+_**May we connect to ourselves and to one another, all for the better.**_
 
 We want to help people learn. We do research, we bring people together, we make tools, we teach, we discuss, and we have fun.
 
@@ -38,6 +38,11 @@ Here is where we focus, organize, and communicate, in as transparant a way as po
 *   Truth & honesty
 *   Love & compassion
 *   Integrity & accessibility (& continually striving towards them)
+*   Collaborative Communication
+    *   inclusiveness of needs, wants, beliefs, and desires currently experienced
+    *   willingness to initiate repair when there's disruption
+    *   providing active scaffolding to support allowing individuals to find and take their own steps forward
+    *   willingness to be in the struggle of learning while making mistakes and staying positively connected even during conflict
 
 ## Our Current Projects
 
